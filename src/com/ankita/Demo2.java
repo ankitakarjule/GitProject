@@ -11,6 +11,7 @@ public class Demo2 {
 		list.add("oops concept");
 		list.add("html/css");
 		list.add("git");
+		list.add("hybernate");
 		for(String str:list)
 		{
 			System.out.println(str);
