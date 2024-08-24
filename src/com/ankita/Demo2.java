@@ -10,6 +10,7 @@ public class Demo2 {
 		list.add("core java");
 		list.add("oops concept");
 		list.add("git");
+		list.add("hybernate");
 		for(String str:list)
 		{
 			System.out.println(str);
