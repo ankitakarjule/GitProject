@@ -9,7 +9,6 @@ public class Demo2 {
 		List<String>list=new ArrayList<String>();
 		list.add("core java");
 		list.add("oops concept");
-		list.add("hybernate");
 		list.add("jdbc");
 		list.add("git");
 		for(String str:list)
