@@ -9,7 +9,7 @@ public class Demo2 {
 		List<String>list=new ArrayList<String>();
 		list.add("core java");
 		list.add("oops concept");
-		list.add("jdbc");
+		list.add("html/css");
 		list.add("git");
 		for(String str:list)
 		{

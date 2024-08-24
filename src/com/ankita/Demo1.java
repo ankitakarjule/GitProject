@@ -5,6 +5,7 @@ public class Demo1 {
 	public static void main(String[] args) {
 	System.out.println("Hello all");
 	System.out.println("welcome to git");
+	System.out.println("welcome to git conflict");
 
 	}
 
